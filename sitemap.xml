@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ihnorton.github.io/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2021-01-02T00:10:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ihnorton.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2021-01-02T00:10:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ihnorton.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-01-02T00:10:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ihnorton.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://ihnorton.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
